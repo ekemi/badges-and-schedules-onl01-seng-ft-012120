@@ -53,7 +53,7 @@ def printer (array)
  
  result.each do |name|
    
-   name
+  puts name
  end
   
 end 
