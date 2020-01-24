@@ -53,7 +53,7 @@ result =  assign_rooms(array)
  
 result.each do |name|
    
-  puts name
+   name
 end
 
 end 
