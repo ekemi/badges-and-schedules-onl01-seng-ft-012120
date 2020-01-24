@@ -49,11 +49,10 @@ end
   #end
   
 def printer (array)
- result =  batch_badge_creator(array)
+# result =  batch_badge_creator(array)
  
 # result.each do |name|
    
 #   puts name
 # end
-  puts result
 end 
