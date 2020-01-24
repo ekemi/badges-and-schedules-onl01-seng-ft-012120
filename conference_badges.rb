@@ -49,7 +49,7 @@ end
   #end
   
 def printer (array)
-result =  batch_badge_creator(array)
+result =  assign_roomsr(array)
  
 result.each do |name|
    
