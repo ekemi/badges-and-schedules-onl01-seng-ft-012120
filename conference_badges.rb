@@ -55,5 +55,5 @@ result =  batch_badge_creator(array)
    
 #   puts name
 # end
-pp result
+
 end 
