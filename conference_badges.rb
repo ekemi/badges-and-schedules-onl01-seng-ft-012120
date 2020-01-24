@@ -13,7 +13,7 @@ end
        h=[]
       array.each do |name|
         
-       puts  h<< "Hello, my name is #{name}."
+      h<< "Hello, my name is #{name}."
        
       end
       h
@@ -27,7 +27,7 @@ end
     
     array.each_with_index  do |name, index| 
        
-      puts  h << "Hello, #{name}! You'll be assigned to room #{index+1}!"
+     h << "Hello, #{name}! You'll be assigned to room #{index+1}!"
       
     
     end
@@ -55,5 +55,5 @@ result =  batch_badge_creator(array)
    
 #   puts name
 # end
-puts result
+pp result
 end 
