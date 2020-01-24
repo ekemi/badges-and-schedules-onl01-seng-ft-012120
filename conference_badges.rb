@@ -47,6 +47,7 @@ end
   #  puts name
  # end
   #end
+  
 def printer (array)
  result =  batch_badge_creator(array)
  
