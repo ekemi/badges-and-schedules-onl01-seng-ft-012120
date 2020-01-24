@@ -51,4 +51,10 @@ end
 def printer (array)
 rooms = assign_rooms(array)
 names = batch_badge_creator(array)
+rooms.each do |room1|
+  puts room1
+end
+names.each do |name1|
+  puts name1
+end
 end
