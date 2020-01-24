@@ -49,7 +49,7 @@ end
   #end
   
 def printer (array)
-result =  assign_roomsr(array)
+result =  assign_rooms(array)
  
 result.each do |name|
    
